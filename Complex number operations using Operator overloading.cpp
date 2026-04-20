@@ -2,7 +2,7 @@
 #include <cmath>   
 using namespace std;
  
-class comp { 
+class comp {  
     int real, img; 
 
 public:
