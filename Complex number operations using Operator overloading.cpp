@@ -3,9 +3,7 @@
 using namespace std; 
  
 class comp {  
-    int real, img; 
-
-public:
+    int real, img;   
     void get() { 
         cout << "Enter the real part: ";
         cin >> real;
