@@ -13,7 +13,7 @@ class comp {
  
     void display() const {
         cout << real << " + j" << img << endl;
-    }
+    }     
 
     comp operator-(const comp& c) const {
         comp s;
