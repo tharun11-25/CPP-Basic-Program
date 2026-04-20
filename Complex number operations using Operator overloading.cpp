@@ -6,7 +6,7 @@ class comp {
     int real, img;
 
 public:
-    void get() {
+    void get() { 
         cout << "Enter the real part: ";
         cin >> real;
         cout << "Enter imaginary part: "; 
