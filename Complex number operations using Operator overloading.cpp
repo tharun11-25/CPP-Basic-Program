@@ -3,7 +3,7 @@
 using namespace std;
 
 class comp { 
-    int real, img;
+    int real, img; 
 
 public:
     void get() { 
