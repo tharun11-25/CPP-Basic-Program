@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>   
 using namespace std; 
- 
+  
 class comp {  
     int real, img;   
     void get() { 
