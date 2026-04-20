@@ -22,7 +22,7 @@ class comp {
         return s;
     }
     comp operator*(const comp& c) const {
-        comp m;
+        comp m; 
         double mag1 = sqrt(real * real + img * img);
         double ang1 = atan2(img, real);
         double mag2 = sqrt(c.real * c.real + c.img * c.img);
