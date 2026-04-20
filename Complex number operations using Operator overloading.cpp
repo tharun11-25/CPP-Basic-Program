@@ -12,7 +12,7 @@ public:
         cout << "Enter imaginary part: "; 
         cin >> img;
     }
-
+ 
     void display() const {
         cout << real << " + j" << img << endl;
     }
