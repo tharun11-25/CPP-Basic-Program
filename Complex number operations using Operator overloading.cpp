@@ -5,7 +5,7 @@ using namespace std;
 class comp {   
     int real, img;   
     void get() { 
-        cout << "Enter the real part: ";
+        cout << "Enter the real part: "; 
         cin >> real; 
         cout << "Enter imaginary part: ";  
         cin >> img;
